@@ -1,0 +1,112 @@
+[
+  {
+    "user": {
+      "name": "Omer Faruk",
+      "lastName": "Kaya",
+      "email": "omer@gmail.com",
+      "password": "123456"
+    },
+    "services": {
+      "hair": {
+        "id": 3,
+        "name": "Fade",
+        "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200"
+      },
+      "beard": {
+        "id": 4,
+        "name": "Goatee",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200",
+        "description": "Modern ve şık"
+      },
+      "massage": {
+        "id": 5,
+        "name": "Ayak Masajı",
+        "image": "https://images.unsplash.com/photo-1544161515-4ab155ce08d2?w=200",
+        "description": "Refleksoloji ile ayak masajı",
+        "duration": "45 dakika",
+        "price": "₺300"
+      }
+    },
+    "date": "2025-04-21",
+    "time": "14:00",
+    "totalPrice": 550,
+    "createdAt": "2025-04-18T19:27:02.216Z"
+  },
+  {
+    "user": {
+      "name": "Omer Faruk",
+      "lastName": "Kaya",
+      "email": "omer@gmail.com",
+      "password": "123456"
+    },
+    "services": {
+      "hair": {
+        "id": 1,
+        "name": "Klasik",
+        "image": "https://images.unsplash.com/photo-1519699047748-de8e457a634e?w=200"
+      },
+      "massage": {
+        "id": 1,
+        "name": "Klasik Masaj",
+        "image": "https://images.unsplash.com/photo-1544161515-4ab155ce08d2?w=200",
+        "description": "Geleneksel İsveç masajı ile rahatlama",
+        "duration": "60 dakika",
+        "price": "₺400"
+      }
+    },
+    "date": "2025-04-21",
+    "time": "12:30",
+    "totalPrice": 550,
+    "createdAt": "2025-04-18T19:30:12.637Z"
+  },
+  {
+    "user": {
+      "name": "Omer Faruk",
+      "lastName": "Kaya",
+      "email": "omer@gmail.com",
+      "password": "123456"
+    },
+    "services": {
+      "hair": {
+        "id": 1,
+        "name": "Klasik",
+        "image": "https://images.unsplash.com/photo-1519699047748-de8e457a634e?w=200"
+      },
+      "beard": {
+        "id": 6,
+        "name": "Stubble",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200",
+        "description": "Günlük kullanım için ideal"
+      }
+    },
+    "date": "2025-04-21",
+    "time": "11:00",
+    "totalPrice": 250,
+    "createdAt": "2025-04-18T19:32:12.756Z"
+  },
+  {
+    "user": {
+      "name": "Omer Faruk",
+      "lastName": "Kaya",
+      "email": "omer@gmail.com",
+      "password": "123456"
+    },
+    "services": {
+      "hair": {
+        "id": 2,
+        "name": "Modern",
+        "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200"
+      },
+      "beard": {
+        "id": 6,
+        "name": "Stubble",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200",
+        "description": "Günlük kullanım için ideal"
+      }
+    },
+    "date": "2025-04-21",
+    "time": "09:00",
+    "totalPrice": 250,
+    "createdAt": "2025-04-18T19:34:03.888Z"
+  }
+]
