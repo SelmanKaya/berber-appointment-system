@@ -1,0 +1,1 @@
+Bu repomuzda berberler icin bir randevu sistemi tasarladim. Sisteme gore istediginiz sac seklini, sakal seklini, masaj veya cilt bakimini secip randevu tarıhı belirleyip fiyati goruyorsunuz en son bunlari berbere mail yolluyorsunuz.
